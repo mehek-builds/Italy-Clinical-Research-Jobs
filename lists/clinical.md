@@ -1,18 +1,15 @@
-# 8 clinical research, cra and trials roles
+# 5 clinical research, cra and trials roles
 
-**8 roles at 6 companies.** Checked 20 Oct 2026. CRA, clinical trial, clinical study and clinical operations roles.
+**5 roles at 4 companies.** Checked 26 Oct 2026. CRA, clinical trial, clinical study and clinical operations roles.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
 | Company | Role | Location | Pay | Posted | Visa signal |
 | --- | --- | --- | --- | --- | --- |
-| **ICON plc** | [Senior CRA](https://trylitos.com/job/69ddf0dd-a30a-409a-8473-d1717a99549d?utm_source=github&utm_campaign=italy-clinical-clinical) | Italy, Milan |  | Oct 19 |  |
-| **Allucent** | [Sr. Clinical Project Manager (Europe)](https://trylitos.com/job/78befd6b-f800-486e-9be0-d586814fc304?utm_source=github&utm_campaign=italy-clinical-clinical) | Amsterdam, North Holland, Netherlands / Madri |  | Oct 13 |  |
-| **Merck & Co. (MSD)** | [Stage nel dipartimento di Ricerca Clinica](https://trylitos.com/job/b49cb40c-8c07-437d-b8ff-807d73472827?utm_source=github&utm_campaign=italy-clinical-clinical) | ITA - Lazio - Roma |  | Oct 12 |  |
-| **Philips** | [Clinical Application Specialist MR/CT](https://trylitos.com/job/3cd411fc-bfe6-426f-a182-fd637af89c4e?utm_source=github&utm_campaign=italy-clinical-clinical) | Casoria - Napoli site |  | Oct 9 |  |
-| **ICON plc** | [Clinical Research Associate](https://trylitos.com/job/c3688b09-84fc-4066-9722-9e6f19bd3124?utm_source=github&utm_campaign=italy-clinical-clinical) | Italy, Milan |  | Sep 30 |  |
-| **GE HealthCare** | [CT Clinical Education Specialist](https://trylitos.com/job/80e40317-5443-4d0e-b9cc-70ee8afd1367?utm_source=github&utm_campaign=italy-clinical-clinical) | ITA01-01-Milan-Via Privata Galeno, 36 |  | Sep 30 |  |
-| **GE HealthCare** | [Clinical Education Project & Digital Programs Intern](https://trylitos.com/job/4028f1b0-0089-4d00-8bc6-2609c0200db0?utm_source=github&utm_campaign=italy-clinical-clinical) | ITA01-01-Milan-Via Privata Galeno, 36 |  | Sep 30 |  |
+| **IQVIA** | [Clinical Research Coordinator - part time](https://trylitos.com/job/e1a3fb28-f414-4c6b-9a9b-67bc68fa0594?utm_source=github&utm_campaign=italy-clinical-clinical) | Milan, Italy (ITALY01, 40) |  | Oct 23 |  |
+| **IQVIA** | [Experienced Clinical Research Associate, IQVIA Biotech - Home based, Italy](https://trylitos.com/job/5caa6fc2-befc-4920-b8aa-a49d1878ea5b?utm_source=github&utm_campaign=italy-clinical-clinical) | Milan, Italy |  | Oct 22 |  |
+| **LivaNova** | [Clinical Data Management & Safety Operations Intern](https://trylitos.com/job/6a4a3e60-4d25-4175-a5e6-39f80198d2b6?utm_source=github&utm_campaign=italy-clinical-clinical) | Milano, Italy |  | Oct 21 |  |
+| **ICON plc** | [Clinical Research Associate](https://trylitos.com/job/40ee2458-58c6-4d24-ac5f-36f78640d94a?utm_source=github&utm_campaign=italy-clinical-clinical) | Italy, Milan |  | Oct 20 |  |
 | **ZOLL Medical** | [Clinical Application Specialist](https://trylitos.com/job/205fe534-b32e-4f72-ab7a-280c20aa326d?utm_source=github&utm_campaign=italy-clinical-clinical) | Italy Remote |  | Aug 5 |  |
 
 [Download as CSV](../csv/) · [All lists](../README.md)
