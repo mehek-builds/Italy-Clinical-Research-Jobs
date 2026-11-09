@@ -1,6 +1,6 @@
 # Clinical Research Jobs in Italy
 
-**19 open clinical research, regulatory and study roles in Italy at 14 employers.** Checked 2 Nov 2026. 7 posted in the last 7 days. 0 at employers with a visa sponsorship record.
+**21 open clinical research, regulatory and study roles in Italy at 15 employers.** Checked 9 Nov 2026. 6 posted in the last 7 days. 1 at employers with a visa sponsorship record.
 
 Clinical research roles hiring in Italy (Milan, Rome and elsewhere): CRA, clinical trial and study roles, regulatory and research roles. Pulled from employers' own job boards.
 
@@ -8,8 +8,8 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 
 | List | Roles | Employers |
 | --- | --- | --- |
-| [Clinical research, CRA and trials](lists/clinical.md) | 10 | 7 |
-| [Regulatory, research and medical](lists/regulatory-research.md) | 12 | 9 |
+| [Clinical research, CRA and trials](lists/clinical.md) | 11 | 7 |
+| [Regulatory, research and medical](lists/regulatory-research.md) | 14 | 11 |
 
 Click a role to open it, with the employer's own application link. Spreadsheet versions: [csv/](csv/).
 
@@ -17,16 +17,18 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 
 | Company | Role | Location | Pay | Posted | Visa signal |
 | --- | --- | --- | --- | --- | --- |
-| **IQVIA** | [Clinical Research Coordinator - part time](https://trylitos.com/job/e44013bf-3113-4cc3-a0a9-60a388a82406?utm_source=github&utm_campaign=italy-clinical-clinical) | Milan, Italy (ITALY01, 40); Verona, Veneto, I |  | Oct 30 |  |
+| **Abbott** | [Clinical Associate](https://trylitos.com/job/4215f545-0609-4911-a2bc-e14540b70234?utm_source=github&utm_campaign=italy-clinical-clinical) | United States - Georgia - Rome |  | Nov 6 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
+| **IQVIA** | [Clinical Research Coordinator in Pisa - part time](https://trylitos.com/job/5f231642-55be-4b53-bcf2-d0ab7322496e?utm_source=github&utm_campaign=italy-clinical-clinical) | Pisa, Toscana, Italy |  | Nov 6 |  |
+| **GE HealthCare** | [Clinical Application Intern](https://trylitos.com/job/7603d836-cbc9-41ee-a84f-2023f79fc072?utm_source=github&utm_campaign=italy-clinical-clinical) | ITA01-01-Milan-Via Privata Galeno, 36; Remote |  | Nov 5 |  |
+| **ICON plc** | [Clinical Research Associate](https://trylitos.com/job/4bd07c38-59e8-4966-a248-69d3e8dd8ffe?utm_source=github&utm_campaign=italy-clinical-clinical) | Italy, Milan |  | Nov 4 |  |
+| **Medtronic** | [Tirocinio extracurriculare: Clinical Research Intern](https://trylitos.com/job/445e395e-cba1-4eb1-91e1-1138ebddfcf8?utm_source=github&utm_campaign=italy-clinical-clinical) | Milano, Lombardia, Italy |  | Nov 2 |  |
+| **IQVIA** | [Clinical Research Coordinator - part time](https://trylitos.com/job/e44013bf-3113-4cc3-a0a9-60a388a82406?utm_source=github&utm_campaign=italy-clinical-clinical) | Verona, Veneto, Italy |  | Oct 30 |  |
 | **GE HealthCare** | [CT Clinical Education Specialist](https://trylitos.com/job/80e40317-5443-4d0e-b9cc-70ee8afd1367?utm_source=github&utm_campaign=italy-clinical-clinical) | ITA01-01-Milan-Via Privata Galeno, 36 |  | Oct 29 |  |
 | **ICON plc** | [Clinical Python Developer](https://trylitos.com/job/783c732e-b458-4ce4-b33a-769198f24d69?utm_source=github&utm_campaign=italy-clinical-clinical) | Ireland, Dublin; Italy, Rome; Israel, Tel Avi |  | Oct 28 |  |
 | **GE HealthCare** | [Clinical Education Specialist MR- Apprentice](https://trylitos.com/job/8f16087b-148d-4eea-826b-a74238977bb2?utm_source=github&utm_campaign=italy-clinical-clinical) | ITA01-01-Milan-Via Privata Galeno, 36 |  | Oct 27 |  |
-| **Philips** | [Clinical Application Specialist MR/CT](https://trylitos.com/job/3cd411fc-bfe6-426f-a182-fd637af89c4e?utm_source=github&utm_campaign=italy-clinical-clinical) | Casoria - Napoli site |  | Oct 27 |  |
-| **Fresenius Medical Care** | [Clinical Administrative Assistant](https://trylitos.com/job/f7b44f07-4d08-4c64-accd-492bd1c508b4?utm_source=github&utm_campaign=italy-clinical-clinical) | Rome, GA |  | Oct 26 |  |
-| **IQVIA** | [Experienced Clinical Research Associate, IQVIA Biotech - Home based, Italy](https://trylitos.com/job/5caa6fc2-befc-4920-b8aa-a49d1878ea5b?utm_source=github&utm_campaign=italy-clinical-clinical) | Milan, Italy |  | Oct 22 |  |
 | **LivaNova** | [Clinical Data Management & Safety Operations Intern](https://trylitos.com/job/6a4a3e60-4d25-4175-a5e6-39f80198d2b6?utm_source=github&utm_campaign=italy-clinical-clinical) | Milano, Italy |  | Oct 21 |  |
-| **ICON plc** | [Clinical Research Associate](https://trylitos.com/job/40ee2458-58c6-4d24-ac5f-36f78640d94a?utm_source=github&utm_campaign=italy-clinical-clinical) | Italy, Milan |  | Oct 20 |  |
 | **ZOLL Medical** | [Clinical Application Specialist](https://trylitos.com/job/205fe534-b32e-4f72-ab7a-280c20aa326d?utm_source=github&utm_campaign=italy-clinical-clinical) | Italy Remote |  | Aug 5 |  |
+| **Levi Strauss & Co.** | [Ricerca sales stylist Part Time presso Levi's Outlet Village ( Bagnolo San Vito - Mn)](https://trylitos.com/job/9764dd1f-c2bb-4154-bc50-4ba72971c319?utm_source=github&utm_campaign=italy-clinical-regulatory-research) | LFO MANTOVA VILLAGE, Bagnolo San Vito, Italy |  | Nov 2 |  |
 | **GSK** | [Internship: Infectious Disease Research Intern, Italy, 2026](https://trylitos.com/job/dc35e195-6e8d-4b16-82cc-b0a27a19cf57?utm_source=github&utm_campaign=italy-clinical-regulatory-research) | Italy - Siena |  | Oct 29 |  |
 | **Nordson** | [Product Regulatory Compliance Engineer](https://trylitos.com/job/9be7f8ec-2c72-48d9-901d-86145844bd6b?utm_source=github&utm_campaign=italy-clinical-regulatory-research) | Italy - Rubiera |  | Oct 22 |  |
 | **PwC** | [Regulatory Risk Associate - Milano [OTS]](https://trylitos.com/job/7e1c441f-cc88-45b9-8f11-a5dd9fea51d2?utm_source=github&utm_campaign=italy-clinical-regulatory-research) | Milan |  | Oct 19 |  |
